@@ -26,6 +26,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    color: var(--VeryLightGray);
 }
 
 .wrapper{
@@ -58,6 +59,7 @@ img{
 
 button{
     background-color: var(--transparent-color);
+    color: var(--VeryLightGray);
     width: 150px;
     height: 50px;
     margin-top: 50px;
@@ -66,12 +68,11 @@ button{
     border: solid;
     border-color: var(--VeryLightGray);
     border-width: 2px;
-    color: var(--TransparentWhite);
     font-family: "Lexend Deca", sans-serif;
     font-size: 1rem;
 }
 
-.column1 button:hover {
+.column1  button:hover {
     color: var(--BrightOrange);
     background-color: var(--VeryLightGray);
 }
