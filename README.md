@@ -1,4 +1,5 @@
-![Zrzut ekranu 2024-02-26 171852](https://github.com/Piotr-byte/3-column-preview-card-/assets/122226672/847e1fa3-09e0-413a-9619-02e2c0ee230d)
+![image](https://github.com/Piotr-byte/3-column-preview-card-/assets/122226672/36d2f343-0ef1-4a32-b5bc-18618a8b5c2c)
+
 
 
 <h1>Live site</h1>
