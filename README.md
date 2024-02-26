@@ -1,4 +1,4 @@
-![image](https://github.com/Piotr-byte/3-column-preview-card-/assets/122226672/36d2f343-0ef1-4a32-b5bc-18618a8b5c2c)
+![image](https://github.com/Piotr-byte/3-column-preview-card-/assets/122226672/680603de-3a10-4039-9ba9-88195f797de1)
 
 
 
