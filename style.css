@@ -48,12 +48,12 @@ body {
     background-color: var(--VeryDarkCyan);
 }
 
-.image__column {
+.column__image {
     margin-top: 50px;
     margin-left: 50px;
 }
 
-.title__column {
+.column__title {
     margin-left: 50px;
 }
 
@@ -63,19 +63,18 @@ body {
     color: var(--VeryLightGray);
 }
 
-.text__column {
+.column__text {
     padding-left: 50px;
     padding-right: 50px;
 }
 
 .text {
-    color: var(--TransparentWhite);
     font-family: "Lexend Deca", sans-serif;
     line-height: 1.70rem;
     color: var(--VeryLightGray);
 }
 
-.button__column {
+.column__button {
     margin-top: 50px;
     margin-left: 50px;
 }
